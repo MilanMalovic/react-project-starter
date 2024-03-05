@@ -136,7 +136,7 @@ This means that supported browsers vary based on current usage data and current 
 
 In general, this setup supports the two most recent versions of all browsers.
 
-## Bonus
+## Added auth
 
 The start template contains a ready-to-use auth flow with Login, Logout, Sign up and Forgotten password forms with validation included. The auth flow includes also route guarding and redirects based on auth status. Please take a look at the `/src/containers/auth` folder for more details.
 
