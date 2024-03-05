@@ -10,7 +10,6 @@ In order to use this setup you need to have installed the following dependencies
 2.  NPM - min v5.6.0
     or
 3.  Yarn - min v1.3.2
-4.  Bash terminal (Default on OSX/Linux, GitBash or similar on Windows)
 
 ## One line zero config installation
 
